@@ -1,0 +1,6 @@
+# Requirements for educational port scanner
+# Note: These work in Replit's environment
+
+# For future real scanning (won't work in Replit but good to document)
+# scapy
+# cryptography
